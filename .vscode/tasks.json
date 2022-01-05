@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "make pts",
+            "type": "shell",
+            "command": "make pts",
+            "problemMatcher": [],
+            "group": "build"
+        },
+        {
+            "label": "make fam",
+            "type": "shell",
+            "command": "make fam",
+            "problemMatcher": [],
+            "group": "build"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "time.h": "c",
+        "stdalign.h": "c",
+        "typeinfo": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
+    },
+    "cpputestExplorer.testExecutable":"${workspaceFolder}/test/bin/test",
+    "cpputestExplorer.testExecutablePath": "${workspaceFolder}/test/bin",
+    "cpputestExplorer.logpanel": true
+}
